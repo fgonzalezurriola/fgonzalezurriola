@@ -8,10 +8,10 @@
 
 ![Banner de Francisco González](github-header-image1.png)
 
-- 🔭 I’m currently working on Flask and React
+- 📚 I’m currently Studying Computer Engineering in Universidad de Chile 
+- 🔭 I’m currently experiencing with Flask and React
 - 🌱 I’m currently learning software development
-- 📚 My UChile projects: 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: My favourite videogame is Age of Empires II!
 
 ## Tecnologías 💻
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
