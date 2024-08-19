@@ -9,7 +9,7 @@
 ![Banner de Francisco González](github-header-image1.png)
 
 - 📚 I’m currently Studying Computer Engineering in Universidad de Chile 
-- 🔭 I’m currently experiencing with Flask and React
+- 🔭 I’m currently experiencing with Astro and React
 - 🌱 I’m currently learning software development
 - ⚡ Fun fact: My favourite videogame is Age of Empires II!
 
