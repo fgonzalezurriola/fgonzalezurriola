@@ -2,7 +2,7 @@
   Hi there, I'm Francisco González! 👋
 </h1>
 
-<h1 align="left">
+<h1 align="center">
   <img src="full-stack-gif.gif" alt="Animation" width="100" />
 </h1>
 
