@@ -8,12 +8,12 @@
 
 ![Banner de Francisco González](github-header-image1.png)
 
-- 📚 I’m currently Studying Computer Engineering in Universidad de Chile 
-- 🔭 I’m currently experiencing with Astro and React 
-- 🌱 I’m currently learning software development 
-- ⚡ Fun fact: My favourite videogame is Age of Empires II! 
+- 📚 I’m currently studying Computer Engineering in Universidad de Chile 
+- 🔭 I’m currently experiencing with Python and React 
+- 🌱 I’m currently learning software development Front-end and Back-end 
+- ⚡ Fun fact: My favourite videogame is Age of Empires II!
 
-## Tecnologías 💻
+## Technologies 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -26,7 +26,8 @@
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## Contactos 📜
+## Contacts ✉️
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fgonzalezurriola)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fgonzalezurriola@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgonzalezurriola/)
