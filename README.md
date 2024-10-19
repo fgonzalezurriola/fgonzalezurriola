@@ -1,10 +1,10 @@
-<h1 align="center" font-size: 42px>
+<!--h1 align="center" font-size: 42px>
   Hi there, I'm Francisco González! 👋
 </h1>
 
 <h1 align="center">
   <img src="full-stack-gif.gif" alt="Animation" width="100" />
-</h1>
+</h1-->
 
 ![Banner de Francisco González](github-header-image1.png)
 
