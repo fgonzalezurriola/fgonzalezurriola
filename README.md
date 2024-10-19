@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" font-size: 42px>
   Hi there, I'm Francisco González! 👋
 </h1>
 
