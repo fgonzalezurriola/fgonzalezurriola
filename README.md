@@ -10,7 +10,7 @@
 
 - 📚 I’m currently studying Computer Engineering in Universidad de Chile 
 - 🔭 I’m currently experiencing with Python and React 
-- 🌱 I’m currently learning the MERN stack (MongoDB Express.js React.js Node.js) 
+- 🌱 I’m currently learning Python backend Frameworks and React
 - ⚡ Fun fact: My favourite videogame is Age of Empires II!
 
 ## Technologies 💻
