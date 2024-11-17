@@ -8,9 +8,9 @@
 
 ![Banner de Francisco González](github-header-image1.png)
 
-- 📚 I’m currently studying Computer Engineering in Universidad de Chile 
+- 📚 I’m currently studying Computer Science Engineering in Universidad de Chile 
 - 🔭 I’m currently experiencing with Python and React 
-- 🌱 I’m currently learning Python backend Frameworks and React
+- 🌱 I’m currently learning Python Frameworks and Javascript Frameworks
 - ⚡ Fun fact: My favourite videogame is Age of Empires II!
 
 ## Technologies 💻
