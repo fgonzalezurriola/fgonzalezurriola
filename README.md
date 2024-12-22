@@ -8,10 +8,11 @@
 
 ![Banner de Francisco González](github-header-image1.png)
 
-- 📚 I’m currently studying Computer Science Engineering in Universidad de Chile 
-- 🔭 I’m currently experiencing with Python and React
-- 🌱 I’m currently learning Python and Javascript Frameworks and the Rust Programming Language
-- ⚡ Fun fact: My favourite videogame is Age of Empires II!
+- 📚 Studying Computer Science Engineering at University of Chile 
+- 🔭 Experimenting with Python and React
+- 🌱 Learning the Rust Programming Language
+- 🔨 Currently working with Django, React and Docker!
+- ⚡ Fun fact: My favorites videogames are Minecraft and Age of Empires II!!!
 
 ## Technologies 💻
 
