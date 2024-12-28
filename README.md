@@ -8,7 +8,7 @@
 
 ![Banner de Francisco González](github-header-image1.png)
 
-- 📚 Studying Computer Science Engineering at University of Chile 
+- 📚 Studying Computer Science Engineering at University of Chile.
 - 🔭 Experimenting with Python and React
 - 🌱 Learning the Rust Programming Language
 - 🔨 Currently working with Django, React and Docker!
