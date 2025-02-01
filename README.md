@@ -34,4 +34,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fgonzalezurriola@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgonzalezurriola/)
 
+## Work Experience
+
+- Internship January 2025 at VTI UChile
+
 🌍 Visit my website!: [users.dcc.uchile.cl/~fragonza/](https://users.dcc.uchile.cl/~fragonza/)
