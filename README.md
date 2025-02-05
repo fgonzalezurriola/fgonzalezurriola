@@ -6,7 +6,7 @@
   <img src="full-stack-gif.gif" alt="Animation" width="100" />
 </h1-->
 
-![Banner de Francisco González](github-header-image1.png)
+![Banner de Francisco González](Banner.png)
 
 - 📚 Studying Computer Science Engineering at University of Chile.
 - 🔭 Experimenting with Python, React and Go
