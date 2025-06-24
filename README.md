@@ -9,9 +9,7 @@
 ![Banner de Francisco González](Banner.png)
 
 - 📚 Studying Computer Science Engineering at University of Chile.
-- 🔭 Experimenting with Python, React and Go
-- 🌱 Learning the Rust Programming Language
-- 🔨 Currently working with Django, React and Docker!
+- 🔭 Experimenting with React, Node and Go
 - ⚡ Fun fact: My favorites videogames are Minecraft and Age of Empires II!!!
 
 ## Technologies 💻
