@@ -37,6 +37,7 @@
 
 [![fgonzalezurriola's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonzalezurriola)](https://github.com/fgonzalezurriola/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonzalezurriola&layout=pie)](https://github.com/fgonzalezurriola/github-readme-stats)
 
 🌍 Visit my website!: [users.dcc.uchile.cl/~fragonza/](https://users.dcc.uchile.cl/~fragonza/)
 
