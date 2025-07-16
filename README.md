@@ -35,4 +35,8 @@
 
 - Internship January 2025 at VTI UChile
 
+[![fgonzalezurriola's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonzalezurriola)](https://github.com/fgonzalezurriola/github-readme-stats)
+
+
 🌍 Visit my website!: [users.dcc.uchile.cl/~fragonza/](https://users.dcc.uchile.cl/~fragonza/)
+
