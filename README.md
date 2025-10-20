@@ -8,9 +8,10 @@
 
 ![Banner de Francisco González](Banner.png)
 
-- 📚 Studying Computer Science Engineering at University of Chile.
-- 🔭 Experimenting with React, Node and Go
-- ⚡ Fun fact: My favorites videogames are Minecraft and Age of Empires II!!!
+- Studying Computer Science Engineering at University of Chile.
+- Experimenting with React, Node and Go
+- Fun fact: My favorites videogames are Minecraft and Age of Empires II!!!
+- Debian enjoyer
 
 ## Technologies 💻
 
